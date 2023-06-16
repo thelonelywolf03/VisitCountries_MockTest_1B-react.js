@@ -1,0 +1,33 @@
+.country-item {
+  border: 1px solid #94a3b8;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #334155;
+}
+.name {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.visit {
+  background-color: #3b82f6;
+  color: #ffffff;
+  border-radius: 5px;
+  height: 30px;
+  font-size: 15px;
+  border-width: 0px;
+  width: 100px;
+}
+.visited {
+  background-color: transparent;
+  color: #94a3b8;
+  border-radius: 5px;
+  font-size: 15px;
+  height: 30px;
+  border-width: 0px;
+  width: 100px;
+}
